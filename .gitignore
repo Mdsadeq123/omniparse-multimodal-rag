@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+data/uploads/*
+!data/uploads/.gitkeep
+data/chroma/*
+!data/chroma/.gitkeep
+*.egg-info/
+.pytest_cache/
+.DS_Store
